@@ -9,7 +9,6 @@ twitter: "https://twitter.com/"
 github: "https://github.com/"
 
 # Site config
-remote_theme : mmistakes/minimal-mistakes
 url    : "https://iiee0.github.io"
 baseurl: "/iiee"
 highlighter: rouge
