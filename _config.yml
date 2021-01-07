@@ -9,8 +9,8 @@ twitter: "https://twitter.com/"
 github: "https://github.com/"
 
 # Site config
-url    : "https://iiee0.github.io"
-baseurl: "/iiee"
+url    : "https://iiee0.github.io/iiee"
+baseurl: ""
 highlighter: rouge
 sass:
   sass_dir: assets/scss
