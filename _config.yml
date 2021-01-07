@@ -10,8 +10,8 @@ github: "https://github.com/"
 
 # Site config
 remote_theme : mmistakes/minimal-mistakes
-url    : "https://iiee0.github.io/iiee"
-baseurl: ""
+url    : "https://iiee0.github.io"
+baseurl: "/iiee"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
