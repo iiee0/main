@@ -9,6 +9,7 @@ twitter: "https://twitter.com/"
 github: "https://github.com/"
 
 # Site config
+url                      : "https://iiee0.github.io"
 baseurl: ""
 highlighter: rouge
 sass:
