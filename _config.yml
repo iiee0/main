@@ -1,5 +1,5 @@
 # User config
-author: "iiee"
+author: "iiee iiee"
 tagline: "iiee tagline"
 description: "iiee desc"
 keywords: "Pineapple, Pineapple Pizza, Pineapple House"
@@ -9,6 +9,7 @@ twitter: "https://twitter.com/"
 github: "https://github.com/"
 
 # Site config
+remote_theme : mmistakes/minimal-mistakes
 url    : "https://iiee0.github.io/iiee"
 baseurl: ""
 highlighter: rouge
